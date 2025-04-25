@@ -1,11 +1,5 @@
 {
   "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
-  "description": "A simple npm project for FreeCodeCamp",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "Your Name",
-  "license": "ISC"
+  "author": "Salem Alsayary"
 }
